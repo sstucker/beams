@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 bevy = "0.9.1"
 bevy_prototype_lyon = "0.7.2"
+itertools = "0.10.5"
+itertools-num = "0.1.3"
